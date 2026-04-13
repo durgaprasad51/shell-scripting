@@ -1,2 +1,1 @@
-# Scripts
-Added all the scripts here for future references. 
+# Scripting is a soul of automation. 
